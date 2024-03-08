@@ -7,8 +7,7 @@ connectivity matrices[1].
 
 Author: Viljami Sairanen
 
-[1] Viljami Sairanen, Combining function and structure in a single macro-scale
-connectivity model of the human brain, bioarxiv, 2024
+[1] Sairanen, Viljami. ‘Combining Function and Structure in a Single Macro-Scale Connectivity Model of the Human Brain’. bioRxiv, 6 March 2024. https://doi.org/10.1101/2024.03.03.583186.
 
 # A Python example of usage with the Human Connectome Project from the ENIGMA TOOLBOX.
 You might need to install enigmatoolbox and nilearn first.
