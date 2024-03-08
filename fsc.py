@@ -3,13 +3,12 @@
 """
 This script contains all functions needed for the Functio-Structural Current
 (FSC) analysis. FSC can be used to combine functional and structural
-connectivity matrices[1].
+connectivity matrices. If you find this code useful, please cite the original
+research paper[1]. 
 
 Author: Viljami Sairanen
 
-[1] Viljami Sairanen, Combining function and structure in a single macro-scale
-connectivity model of the human brain, bioarxiv
-
+[1] Sairanen, Viljami. ‘Combining Function and Structure in a Single Macro-Scale Connectivity Model of the Human Brain’. bioRxiv, 6 March 2024. https://doi.org/10.1101/2024.03.03.583186.
 
 Example of usage with the Human Connectome Project from the ENIGMA TOOLBOX.
 
