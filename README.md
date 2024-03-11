@@ -5,6 +5,8 @@ This script contains all functions needed for the Functio-Structural Current
 (FSC) analysis. FSC can be used to combine functional and structural
 connectivity matrices[1].
 
+Nothing prevents from using FSC on networks beyond neuroscience. For example, path finding can be done by setting voltage source between start/end and resistances according to the network's edge weights. The shortest path is found by following max current in FSC. As a bonus, this gives all paths.
+
 Author: Viljami Sairanen
 
 [1] Sairanen, Viljami. ‘Combining Function and Structure in a Single Macro-Scale Connectivity Model of the Human Brain’. bioRxiv, 6 March 2024. https://doi.org/10.1101/2024.03.03.583186.
